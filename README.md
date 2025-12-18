@@ -168,7 +168,7 @@ git status
 
 ```bash
     # Locales
-    git branch
+    gitgit branch branch
 
     # Locales y remotas
     git branch -a
