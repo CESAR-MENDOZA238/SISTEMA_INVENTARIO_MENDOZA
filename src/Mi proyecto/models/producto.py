@@ -81,4 +81,8 @@ class Producto:
         def _repr_(self) -> str: 
             """ Representacion en string del producto."""
             return f"producto(id={self.id_producto},nombre='{self.nombre}, precios={self.precio}, cantidad={self.cantidad})"
+<<<<<<< HEAD
+=======
+        
+>>>>>>> Mendoza/models
         

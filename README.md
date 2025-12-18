@@ -89,7 +89,7 @@ SISTEMA_INVENTARIO/
 ```bash
     #Ejemplo
      git add .
-     git commit -m "Subiendo rama Lizarzaburu"
+     git commit -m "Subiendo -u rama Lizarzaburu"
      git push -u origin Lizarzaburu/models
 
 ```
@@ -168,7 +168,7 @@ git status
 
 ```bash
     # Locales
-    git branch
+    gitgit branch branch
 
     # Locales y remotas
     git branch -a
